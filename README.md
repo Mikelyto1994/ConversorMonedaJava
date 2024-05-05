@@ -1,9 +1,9 @@
-El programa muestra una un mensaje con opciones a escoger de acuerso a la moneda a convertir, 
-asimimismo te dara opcion de cuanto es la cantidad de la moneda que vas a convertir, 
-para posterior mostrar el resultado de la conversion; para eso se utilizo una api denominada 
-v6.exchangerate-api.com para extraer el json interno conversion_rates, al que comparamos una 
-su clave con la opcion escogida, para luego sacar su valor y realizar la operacion de conversion, 
-asimismo se utilizo lo estudiado en las rutas.
+Este programa permite conectar a la API https://app.exchangerate-api.com para convertir monedas al tipo de cambio actual.
+El programa muestra una pantalla con un mensaje dando opciones a escoger de acuerdo a la moneda que se desea convertir,
+asimimismo te dara opción de colocar la cantidad de moneda que quieres convertir, 
+para luego mostrar en pantalla el resultado de la conversion; 
+Gracias a la api: v6.exchangerate-api.com, se puede extraer el json interno conversion_rates, al que comparamos una vez se tenga una 
+clave (KEY) con la opcion escogida, para luego sacar su valor y realizar la operacion de conversion, 
+asimismo se utilizo lo estudiado en la formación JAVA orientado a Objetos.
 
-https://github.com/jorgel123456/conversor-monedas-challenge-alura/assets/100483965/15384ba0-4c44-4b44-bcb1-3863f57389e0
-
+Saludos y buenas vibras n.n

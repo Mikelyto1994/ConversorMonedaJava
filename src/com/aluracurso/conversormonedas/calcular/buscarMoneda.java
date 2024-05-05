@@ -16,7 +16,7 @@ public class buscarMoneda {
     public Moneda buscar(String  abreviatura){
 
         try {
-            String direccion = "https://v6.exchangerate-api.com/v6/f6d8a6131df6be3b92001248/latest/USD";
+            String direccion = "https://v6.exchangerate-api.com/v6/94adbedb7ad137f188028864/latest/USD";
 
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(direccion))
